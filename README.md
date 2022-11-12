@@ -1,1 +1,1 @@
-# odin-recipes
+Goal of project is to create a recipe list and further my understanding of HTML
